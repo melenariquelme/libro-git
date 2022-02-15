@@ -1,3 +1,4 @@
-capitulo 1: introduccion a git
-capitulo 2: flujon de trabajo basico
-capitulo 3: repositorio motores[D[D[D[C[C[B[C[D[D[D[Dre[D[D[Ds[C[C[D[D [C[C[D[Dremoto
+Capítulo 1: Introducción a Git
+Capítulo 2: Flujo de trabajo básico
+Capítulo 3: Gestión de ramas
+Capítulo 4: Repositorios remotos
